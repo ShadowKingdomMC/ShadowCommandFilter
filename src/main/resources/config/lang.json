@@ -1,0 +1,6 @@
+{
+    "no-permission": "&cYou do not have permission to use this command",
+    "deny-message": "&cYou cannot use \"&7%char%&c\" in commands!",
+
+    "cmd-reload": "&3[ShadowCommandFilter] &7Reloaded configs"
+}
