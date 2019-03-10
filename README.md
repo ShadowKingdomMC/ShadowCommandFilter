@@ -8,7 +8,7 @@ Filter commands to only allow a-Z 0-9, and [whitelisted](https://github.com/Shad
 
 <h2 align="center"></h2>
 
-#### Permissions/Commands
+#### Commands/Permissions
 
 | Command                              | Permission	                |
 |---	                               |---                         |
