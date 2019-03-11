@@ -4,18 +4,13 @@
 
 ### ShadowCommandFilter
 
-Filter commands to only allow a-Z 0-9, and [whitelisted](https://github.com/ShadowKingdomMC/ShadowCommandFilter/blob/master/src/main/resources/config/config.json) special characters.<br>
-[Download v1.0](https://github.com/ShadowKingdomMC/ShadowCommandFilter/releases/download/v1.0/ShadowCommandFilter-10032019-1.0.jar)
-
-This plugin was made in response to a [Towny bug that we discoverd](https://github.com/TownyAdvanced/Towny/issues/3197). We also made a [forums thread](https://shadowkingdom.org/threads/v3-crash-maintenance-10-03-19.1734/) on the issue. 
+Filter commands to only allow a-Z 0-9, and [whitelisted](https://github.com/ShadowKingdomMC/ShadowCommandFilter/blob/master/src/main/resources/config/config.json) special characters.
+<br>This plugin was made in response to a [Towny bug that we discoverd](https://github.com/TownyAdvanced/Towny/issues/3197). We also made a [forums thread](https://shadowkingdom.org/threads/v3-crash-maintenance-10-03-19.1734/) on the issue. 
 
 <h2 align="center"></h2>
 
-#### Commands/Permissions
-
-| Command                              | Permission	                |
-|---	                               |---                         |
-| /commandfilter,shadowcommandfilter   | shadowcommandfilter.command.reload                  |
+[Download v1.0](https://github.com/ShadowKingdomMC/ShadowCommandFilter/releases/download/v1.0/ShadowCommandFilter-10032019-1.0.jar)
+[Commands/Permissions](https://github.com/ShadowKingdomMC/ShadowCommandFilter/wiki/Commands-Permissions)
 
 <h2 align="center"></h2>
 
