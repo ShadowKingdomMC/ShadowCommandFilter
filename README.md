@@ -9,7 +9,7 @@ Filter commands to only allow a-Z 0-9, and [whitelisted](https://github.com/Shad
 
 <h2 align="center"></h2>
 
-[Download v1.0](https://github.com/ShadowKingdomMC/ShadowCommandFilter/releases/download/v1.0/ShadowCommandFilter-10032019-1.0.jar)
+[Download v1.0](https://github.com/ShadowKingdomMC/ShadowCommandFilter/releases/download/v1.0/ShadowCommandFilter-10032019-1.0.jar)<br>
 [Commands/Permissions](https://github.com/ShadowKingdomMC/ShadowCommandFilter/wiki/Commands-Permissions)
 
 <h2 align="center"></h2>
