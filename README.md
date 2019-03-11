@@ -6,6 +6,8 @@
 
 Filter commands to only allow a-Z 0-9, and [whitelisted](https://github.com/ShadowKingdomMC/ShadowCommandFilter/blob/master/src/main/resources/config/config.json) special characters.
 
+[Download v1.0](https://github.com/ShadowKingdomMC/ShadowCommandFilter/releases/download/v1.0/ShadowCommandFilter-10032019-1.0.jar)
+
 <h2 align="center"></h2>
 
 #### Commands/Permissions
