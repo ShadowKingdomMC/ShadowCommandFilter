@@ -16,7 +16,7 @@ Filter commands to only allow a-Z 0-9, and [whitelisted](https://github.com/Shad
 
 #### Server Dependancies
 
-* Spigot 1.8.* or greater
+* Spigot >1.8.*
 
 #### Code Dependancies
 
