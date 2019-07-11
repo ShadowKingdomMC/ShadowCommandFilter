@@ -25,5 +25,5 @@ Filter commands to only allow a-Z 0-9, and [whitelisted](https://github.com/Shad
 
 <h2 align="center"></h2>
 
-© 2019 [Primary Script, Inc](https://primaryscript.com) <br>
+© 2019 [Trelous, Inc](https://trelous.com) <br>
 See [LICENSE](https://github.com/ShadowKingdomMC/ShadowCommandFilter/blob/master/LICENSE) for more information.
